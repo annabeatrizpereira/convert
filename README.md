@@ -1,6 +1,6 @@
 <h1>Convert 🔄</h1> 
 <p>Um conversor de moedas simples para calcular o valor em reais, desenvolvido para treinar JavaScript no curso Fullstack da Rocketseat.</p> 
-<img src="./img/printscreen-convert.png" alt="Printscreen do projeto Convert"> 
+<img src="img/printscreen-convert.png" alt="Printscreen do projeto Convert"> 
 
 <h2>Descrição</h2> 
 <p>O projeto <strong>Convert</strong> foi desenvolvido como parte dos estudos do curso Fullstack da Rocketseat. O principal objetivo foi praticar lógica de programação e manipulação do DOM com JavaScript, criando um conversor de moedas interativo.</p> 
